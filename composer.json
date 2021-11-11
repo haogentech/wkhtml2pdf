@@ -1,5 +1,5 @@
 {
-    "name": "nitmedia/wkhtml2pdf",
+    "name": "matfish2/wkhtml2pdf",
     "description": "Html 2 Pdf - using wkhtml2pdf, work on 32bit and 64 bit linux + MacOS",
     "license": "MIT",
     "keywords": ["laravel","illuminate","pdf","wkhtmltopdf","wkhtml2pdf"],
